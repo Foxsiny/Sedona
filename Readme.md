@@ -1,7 +1,7 @@
 # Личный проект «Sedona»
 
 * Студент: [Наталья](https://htmlacademy.ru/profile/id2658819).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
 
 ---
 
